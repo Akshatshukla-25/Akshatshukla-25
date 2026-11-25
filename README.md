@@ -1,149 +1,115 @@
 <div align="center">
 
-# ⚡ AKSHAT SHUKLA ⚡
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · akshatshukla-25</sub></p>
+<h1>Akshat</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Debugging my code and my life, one bug at a time.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=4E8EF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB+turning+%E2%98%95+into+code;Fixing+bugs+I+created+5+minutes+ago...;Currently+fighting+the+Backend+Boss+Battle+%E2%9A%94%EF%B8%8F;Stack+Overflow+Archaeologist+by+night+%F0%9F%95%B5%EF%B8%8F;Open+source+enthusiast+%F0%9F%8C%B1" />
-
-<br>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
-
-<br><br>
-
-<a href="https://github.com/Akshatshukla-25">
-  <img src="https://img.shields.io/badge/GitHub-Akshatshukla--25-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Akshatshukla-25&style=for-the-badge&color=4E8EF7&label=PROFILE+VIEWS"/>
-
+<p><a href="https://github.com/akshatshukla-25">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/214451237?u=0f55cacf1fcccbadf9e3bb46d3451f9ce356a685&amp;v=4" width="180" alt="Akshat GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+<h2>What teams can evaluate quickly</h2>
 
-## 🧑‍💻 About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>22 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,323 contributions · 101 active days</p></td>
+</tr>
+</table>
 
-- 🎓 Computer Science student, perpetually mid-way through a tutorial
-- 💻 Frontend Developer (React) leveling up into backend & databases
-- 🌱 Currently learning Node.js, Express, and SQL
-- 🐞 Turns coffee into code, and code into bugs — then back into code
-- ⚡ Fun fact: my CSS and I have a complicated relationship
+<p><sub>Debugging my code and my life, one bug at a time.</sub></p>
 
-```javascript
-const akshat = {
-  role: "Frontend Developer",
-  education: "CS Student",
-  status: "Works on React until CSS attacks",
-  learning: ["Backend", "Databases", "APIs", "Centering a div consistently"],
-  hobbies: ["Open Source", "DSA", "Creating bugs", "Fixing the same bugs"],
-};
-```
+<h2>Proof at a glance</h2>
 
-<br>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>22</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,323</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Akshat GitHub proof metrics" />
+</picture>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,mysql,git,github,figma,vscode&theme=dark" />
-</div>
+<h2>Selected work</h2>
 
-<br>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&repos=akshatshukla-25%2FBitcoin-Sih%2Cakshatshukla-25%2FLiffy%2Cakshatshukla-25%2Fpromotion-gatekeeper-demo%2Cakshatshukla-25%2Fpromotion-gatekeeper&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&repos=akshatshukla-25%2FBitcoin-Sih%2Cakshatshukla-25%2FLiffy%2Cakshatshukla-25%2Fpromotion-gatekeeper-demo%2Cakshatshukla-25%2Fpromotion-gatekeeper&v=recruiter-projects-1&mode=dark" width="100%" alt="Akshat selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Akshatshukla-25/Bitcoin-Sih">Bitcoin-Sih</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 1 · 🍴 1</sub></p>
+<p><a href="https://github.com/Akshatshukla-25/Bitcoin-Sih">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-## 🧠 Current Skill Levels
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akshatshukla-25/Liffy">Liffy</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akshatshukla-25/promotion-gatekeeper-demo">promotion-gatekeeper-demo</a></h3><p>Demo consumer repo for promotion-gatekeeper</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akshatshukla-25/promotion-gatekeeper">promotion-gatekeeper</a></h3><p>Deterministic cross-environment promotion gatekeeper GitHub Action</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-```text
-Frontend        ████████████████░░░░  80%
-JavaScript      ███████████████░░░░░  75%
-Backend         ██████░░░░░░░░░░░░░░  30%
-Databases       █████░░░░░░░░░░░░░░░  25%
-System Design   ██░░░░░░░░░░░░░░░░░░  10%
-Sleep Schedule  ░░░░░░░░░░░░░░░░░░░░   0%
-```
+<h2>Technical toolkit</h2>
 
-<br>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Akshat technology stack" />
+</picture>
+</p>
 
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>32% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>30% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshatshukla-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatshukla-25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
+<h2>Consistency signal</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshatshukla-25&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=akshatshukla-25&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214451237%3Fu%3D0f55cacf1fcccbadf9e3bb46d3451f9ce356a685%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Akshat contribution activity" />
+</picture>
+</p>
 
-<br>
+<hr />
 
-## 🏆 Trophy Room
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/akshatshukla-25">GitHub</a></td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshatshukla-25&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<br>
-
-## 🎯 Current Goals
-
-- [x] Get comfortable with React fundamentals
-- [x] Ship and deploy a first full project
-- [ ] Get confident with Node.js & Express
-- [ ] Learn SQL & database design properly
-- [ ] Contribute to 5+ open source projects
-- [ ] Land a software development internship
-- [ ] Stop naming files `final_final_v2_REAL.js`
-
-<br>
-
-## 😅 The Daily Cycle
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360"/>
-</div>
-
-```text
-Write Code → Bug Appears → Google It → Stack Overflow
-    ↓
-Copy Solution → It Works (Somehow) → Never Touch That File Again
-```
-
-**Late-night coding, a timeline:**
-
-```text
-11 PM  → "I'll study for 30 mins"
-12 AM  → One more tutorial
- 1 AM  → One more feature
- 2 AM  → "Let's redesign everything"
- 3 AM  → Why is this div moving?
- 4 AM  → Good morning ☀️
-```
-
-<br>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Akshatshukla-25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/your-twitter-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### *"99 little bugs in the code, 99 little bugs...*
-### *fix one bug, compile again, 127 little bugs in the code."*
-
-</div>
+<p align="center"><sub>Akshat · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
